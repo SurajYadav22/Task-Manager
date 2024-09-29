@@ -31,9 +31,11 @@ This is a full-stack task management application similar to Trello. It allows us
 
 2. **Signup / Login Page:**
    - Standard login with Google OAuth integration.
+     
 ![image](https://github.com/user-attachments/assets/d5f5d973-2932-4ead-b6a4-647af4eb916c)
 
-![image](https://github.com/user-attachments/assets/0535e26c-737a-4f84-ae14-ae506b1b4435)
+![image](https://github.com/user-attachments/assets/6dad4bbe-00ef-4036-aade-dbce9ef9aa39)
+
 
 
 3. **Task Dashboard:**
